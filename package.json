@@ -1,0 +1,23 @@
+{
+  "name": "virtualmachine",
+  "version": "1.0.0",
+  "description": "An attempt to implement CPU behaiviour",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valshin/virtualMachine.git"
+  },
+  "author": "valshin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valshin/virtualMachine/issues"
+  },
+  "homepage": "https://github.com/valshin/virtualMachine#readme",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
